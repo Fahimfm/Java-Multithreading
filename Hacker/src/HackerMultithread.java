@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class HackerMultithread {
-    public static final int MAX_NUMBER=9999;
+    public static final int MAX_NUMBER = 9999;
     public static void main(String... args){
 
     }
